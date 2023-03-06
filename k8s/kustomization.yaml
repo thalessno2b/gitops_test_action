@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: thalessn/gitopsfc
-  newTag: latest
+  newTag: e05da18c3c2cd78ee42ab4948c58ed96be5d432d
